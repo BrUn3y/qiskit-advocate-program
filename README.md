@@ -9,7 +9,7 @@ Abre **index.html** con un navegador. Es un archivo autónomo: imágenes, códig
 ## Contenido
 
 - Requisitos y credenciales de ingreso, con tres imágenes oficiales de insignias de IBM / Credly.
-- Preparación de la solicitud y código QR del formulario oficial.
+- Diapositiva con los datos, cuentas y confirmaciones que pide Airtable para aplicar, enlace y código QR del formulario oficial.
 - Tiers Blue, Purple, Magenta y Onyx; requisitos, beneficios y mantenimiento.
 - Las 16 actividades de la tabla de puntos, agrupadas por valor.
 - Cómo reclamar puntos y consultar el tablero.
