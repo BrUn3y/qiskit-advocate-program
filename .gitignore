@@ -1,0 +1,6 @@
+# Research downloads, source PDFs and local visual checks
+/sources/
+/_site/
+.DS_Store
+__pycache__/
+*.pyc
