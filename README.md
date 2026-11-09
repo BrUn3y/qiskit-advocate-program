@@ -1,6 +1,6 @@
 # Tu camino a Qiskit Advocate
 
-Presentación educativa en español, con 17 diapositivas, basada en el material del Qiskit advocate program.
+Presentación educativa en español, con 18 diapositivas, basada en el material del Qiskit advocate program.
 
 [**Ver la presentación en GitHub Pages**](https://brun3y.github.io/qiskit-advocate-program/)
 
@@ -15,6 +15,7 @@ Abre **index.html** con un navegador. Es un archivo autónomo: imágenes, códig
 - Cómo reclamar puntos y consultar el tablero.
 - Simulador para planear los 15 puntos de Tier 1.
 - Diagrama original proporcionado, fuentes y notas de actualización.
+- Diapositiva final con un QR para guardar y compartir la presentación publicada.
 
 ## Controles
 

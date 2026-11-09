@@ -50,9 +50,10 @@ Estos enlaces se extrajeron de las fuentes; no se completaron formularios ni se 
 
 ## Verificación de la presentación
 
-- 17 diapositivas y 16 actividades de la guía; identificadores HTML únicos.
+- 18 diapositivas y 16 actividades de la guía; identificadores HTML únicos.
 - Fuentes, imágenes y QR incorporados al HTML; funcionamiento sin servidor.
 - Revisión visual de portada, credenciales, tiers, tabla de puntos y simulador.
 - Navegación por botones, índice, teclado y enlaces a diapositivas.
 - Simulador: ejemplo de 15 puntos, reinicio, suma de actividades y comprobación de training y certificación.
 - Diseño en escritorio y móvil, sin desbordamiento horizontal ni superposición del pie de página.
+- Código QR final que enlaza a la presentación publicada en GitHub Pages.
